@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mira Adrianti
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Mira Adrianti.
+- 👀 I’m interested in Web Developing, Machine Learing and so on.
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me : miradrianti@gmail.com
 <!--- 💞️ I’m looking to collaborate on ... --->
 
